@@ -1,6 +1,6 @@
 {
   "name": "webdevforhire.com",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Portfolio of Kyle Tyacke - WebDevForHire",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/ktyacke/webdevforhire.com.git"
   },
-  "keywords": [
-  ],
+  "keywords": [],
   "author": "Kyle Tyacke",
   "license": "ISC",
   "bugs": {
